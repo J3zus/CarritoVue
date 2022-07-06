@@ -1,0 +1,14 @@
+[
+    {
+        "precio": 50,
+        "id": 1,
+        "title": "Sandia",
+        "thumbnailUrl": "https://picsum.photos/id/9/600"
+    },
+    {
+        "precio": 60,
+        "id": 2,
+        "title": "Fruta",
+        "thumbnailUrl": "https://picsum.photos/id/9/300"
+    }
+]
